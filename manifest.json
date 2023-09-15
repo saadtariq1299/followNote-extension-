@@ -1,0 +1,11 @@
+{
+    "name": "followNote",
+    "version": "1.0",
+    "description": "Cette application vous permet de suivre vos notes!",
+    "manifest_version": 3,
+    "authour": "Saad_tariq",
+    "action": {
+        "default_popup": "index.html",
+        "default_title": "followNote"
+    }
+} 

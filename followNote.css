@@ -1,0 +1,33 @@
+body{
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-image: url(background.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+li{
+    list-style-type: none;
+    font-size: 30px;
+    color: red;
+}
+
+input{
+    margin: 20px;
+    width: 250px;
+    position: relative;
+    top: 180px;
+    font-size: 20px;
+}
+
+button{
+    margin: 2px;
+    position: relative;
+    top: 200px;
+    font-size: 30px;
+    background-color: black;
+    color: white;
+    border: none;
+}
